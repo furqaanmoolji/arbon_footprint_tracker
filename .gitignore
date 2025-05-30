@@ -1,0 +1,7 @@
+# Node
+node_modules/
+.env
+
+# Vite + React
+frontend/dist/
+frontend/node_modules/
